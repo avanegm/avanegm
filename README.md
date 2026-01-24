@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Tecnologias & Conhecimentos
+
 
 ### ✔️ Conhecimentos básicos
 - JavaScript  
