@@ -17,19 +17,4 @@
 ---
 
 
-
-### ✔️ Conhecimentos básicos
-- JavaScript  
-- HTML  
-- CSS  
-
-### 📚 Em aprendizado
-- SQL  
-- Python  
-- Fundamentos de dados  
-
-### 🛠️ Ferramentas
-- Git & GitHub  
-- VS Code  
-
 📌 *Sempre em busca de evolução, aprendizado contínuo e novos desafios.*
