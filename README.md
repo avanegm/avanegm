@@ -17,4 +17,4 @@
 ---
 
 
-📌 *Sempre em busca de evolução, aprendizado contínuo e novos desafios.*
+📌 *Always seeking growth, continuous learning, and new challenges.*
