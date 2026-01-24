@@ -1,10 +1,13 @@
 # 👋 Hello, i am Matheus
-🎯 Telecommunications Analyst transitioning into the Data field
----
-🎓 Graduate in Computer Network Technology
+
+
+🎯 Telecommunications Analyst transitioning into the Data Field
 ---
 💼 Currently working at Huawei, focusing on network infrastructure
+---
+🎓 Graduate in Coputer Network Technology
 
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-avane)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusavane312@gmail.com)
 
