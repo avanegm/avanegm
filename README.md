@@ -1,10 +1,13 @@
 # 👋 Hello, i am Matheus
 
 
+
+
+
 🎯 Telecommunications Analyst transitioning into the Data Field
----
+--
 💼 Currently working at Huawei, focusing on network infrastructure
----
+--
 🎓 Graduate in Coputer Network Technology
 
  
